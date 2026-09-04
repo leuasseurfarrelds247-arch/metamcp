@@ -1,4 +1,4 @@
-# Internationalization (i18n) Setup
+850975aad83c9afedce52c03606e3bd325f3ee2c# Internationalization (i18n) Setup
 
 This projects uses Next.js locale in middleware and client side translation.
 
